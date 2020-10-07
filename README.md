@@ -19,6 +19,9 @@ Using Support Vector Machine and Extracting Histogram of Oriented Gradient Featu
 ### Dataset Sources
 
 * "LSI-Far" Infrared Dataset (http://portal.uc3m.es/portal/page/portal/dpto_ing_sistemas_automatica/investigacion/IntelligentSystemsLab/research/InfraredDataset)
+
+  * Increase Contrast in case, the images from LSI-Far will be taken in consideration.
+  
 * Infrared Dataset of Diverse Perspectives (http://vcipl-okstate.org/pbvs/bench/)
 * "FLIR" Infrared Dataset (https://www.flir.in/oem/adas/adas-dataset-form/)
 
