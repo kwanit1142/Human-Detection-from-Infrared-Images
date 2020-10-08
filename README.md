@@ -14,7 +14,8 @@ Using Support Vector Machine and Extracting Histogram of Oriented Gradient Featu
 * pandas
 * scikit
 * PIL (Optional)
-* IPython and google.colab (Optional)
+* IPython
+* google.colab (Optional)
 
 ### Dataset Sources
 
