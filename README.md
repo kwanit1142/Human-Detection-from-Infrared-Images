@@ -1,7 +1,7 @@
 # Human-Detection-from-Infrared-Images
 Using Support Vector Machine and Extracting Histogram of Oriented Gradient Features
 
-## Following are the Materials, Literature and Resources, required to Construct the Detection System. Their Detailed Explainations are on the way in short time.
+## Following are the Materials, Literature and Resources, required to Construct the Detection System. Their Detailed Explainations are on the way in a short while.
 
 ### Library Dependencies:
 
