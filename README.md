@@ -17,15 +17,6 @@ Using Support Vector Machine and Extracting Histogram of Oriented Gradient Featu
 * "ASL" Infrared Dataset (https://projects.asl.ethz.ch/datasets/doku.php?id=ir:iricra2014)
 * "Medeley" Infrared Image/Video Dataset (https://data.mendeley.com/datasets/n6wrv4ry6v/8)
 
-### Concepts and Components Involved
-
-* Support Vector Machine/Classifier
-* Histogram of Oriented Gradients
-* Sliding Window Mechanism
-* Principal Component Analysis
-* Radial Basis Function
-* Non-Maximum Suppression
-
 ### References
 
 * Dalal and Triggs Visible Band Imagery Research Paper (https://lear.inrialpes.fr/people/triggs/pubs/Dalal-cvpr05.pdf)
