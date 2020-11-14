@@ -8,7 +8,7 @@
 
 ### time
 
-### matplotlib
+### matplotlib (inline)
 
 ### numpy
 
