@@ -3,20 +3,6 @@ Using Support Vector Machine and Extracting Histogram of Oriented Gradient Featu
 
 ## Following are the Materials, Literature and Resources, required to Construct the Detection System.
 
-### Library Dependencies:
-
-* os      
-* imutils     
-* cv2
-* time
-* matplotlib
-* numpy
-* pandas
-* scikit
-* PIL (Optional)
-* IPython
-* google.colab (Optional)
-
 ### Dataset Sources
 
 * "LSI-Far" Infrared Dataset (http://portal.uc3m.es/portal/page/portal/dpto_ing_sistemas_automatica/investigacion/IntelligentSystemsLab/research/InfraredDataset)
