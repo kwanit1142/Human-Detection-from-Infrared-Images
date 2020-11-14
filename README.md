@@ -1,7 +1,7 @@
 # Human-Detection-from-Infrared-Images
 Using Support Vector Machine and Extracting Histogram of Oriented Gradient Features. Future enhancements include Variable Bounding box, Image Pyramid, Model Implementation on Videos AND Live feed, etc.
 
-## Following are the Materials, Literature and Resources, required to Construct the Detection System.
+### Following are the Materials, Literature and Resources, required to Construct the Detection System.
 
 ### Dataset Sources
 
