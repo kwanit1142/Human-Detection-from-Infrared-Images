@@ -1,4 +1,4 @@
-# Concepts and Components Involved
+# *Concepts and Components Involved*
 
 ### Support Vector Machine/Classifier
 
