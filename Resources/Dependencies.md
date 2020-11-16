@@ -1,4 +1,4 @@
-# Library Dependencies:
+# *Library Dependencies*
 
 * os   
 * imutils   
