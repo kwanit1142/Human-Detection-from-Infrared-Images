@@ -5,7 +5,7 @@ Using Support Vector Machine and Extracting Histogram of Oriented Gradient Featu
 * Model Implementation on Videos and Live feed
 * More accuracy according to Available dataset and Computation Power.
 
-# Refer Tools and Resources for better understanding of Work Procedure
+## *Refer Tools and Resources for better understanding of Work Procedure*
 
 ### Dataset Sources
 
